@@ -1,4 +1,4 @@
-<img width="386" alt="Screenshot 2025-02-17 at 10 55 17" src="https://github.com/user-attachments/assets/4110f2b8-f940-415f-b690-29d1060cd9d5" />
+
 
 
 🌤 Weather Pulse
