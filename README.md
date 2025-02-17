@@ -34,11 +34,11 @@ Ensure you have the following installed:
 
 2. **Navigate to the project directory**:
      ```sh
-     cd wift_weather_app
+     cd swift_weather_app
      
 3. **Open the project in Xcode**:
     ```sh
-    open WeatherPulse.xcodeproj
+    open swift_weather_app.xcodeproj
 
 4. Run the app:
   -Select a simulator (or a real device if configured).
