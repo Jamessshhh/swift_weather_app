@@ -44,6 +44,7 @@ Ensure you have the following installed:
     open swift_weather_app.xcodeproj
 
 4. Run the app:
+   
   -Select a simulator (or a real device if configured).
    
   -Press Cmd + R or click the "Run" button in Xcode.
