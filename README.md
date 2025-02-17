@@ -1,4 +1,7 @@
-<img width="386" alt="Screenshot 2025-02-17 at 10 55 17" src="https://github.com/user-attachments/assets/4110f2b8-f940-415f-b690-29d1060cd9d5" />🌤 Weather Pulse
+<img width="386" alt="Screenshot 2025-02-17 at 10 55 17" src="https://github.com/user-attachments/assets/4110f2b8-f940-415f-b690-29d1060cd9d5" />
+
+
+🌤 Weather Pulse
 
 A beautiful SwiftUI-based weather app that provides real-time weather updates and a 5-day forecast for any city.
 
@@ -80,5 +83,6 @@ Ensure you have the following installed:
 📷 Screenshots
 
 ![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 10 54 20](https://github.com/user-attachments/assets/a7fed345-c4af-4873-bd01-0c4d0b22c918)
+
 
 
