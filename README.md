@@ -33,7 +33,7 @@ Ensure you have the following installed:
 ### **Steps to Install**  
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/your-username/swift_weather_app.git
+   git clone https://github.com/Jamessshhh/swift_weather_app.git
 
 2. **Navigate to the project directory**:
      ```sh
