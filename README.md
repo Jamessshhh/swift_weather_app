@@ -70,7 +70,7 @@ Ensure you have the following installed:
 -URLSession – Fetching data from OpenWeather API
 
 
-📅 Future Improvements
+📅 Future Improvements(Currently Working)
 
 🔍 Search Functionality Enhancements – Auto-suggestions and location-based search.
 
